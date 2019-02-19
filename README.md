@@ -1,6 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+1- install npm in your pc
+2- install react , redux in your pc
+3-git clone React-Redux-Demo.git
+4- cd React-Redux-Demo
+5- install npm in project(React-Redux-Demo)
+6- npm start
 
 In the project directory, you can run:
 
